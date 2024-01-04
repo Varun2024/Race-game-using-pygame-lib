@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cl",
+				"close_loop"
+			],
+			[
+				"list",
+				"listtwo"
+			],
+			[
+				"img",
+				"img_final"
+			],
+			[
+				"e",
+				"exit_game"
+			],
+			[
+				"gam",
+				"game_over"
+			],
+			[
+				"GAME_",
+				"game_over1"
+			],
+			[
+				"clo",
+				"close_loop"
+			],
+			[
+				"F",
+				"False"
+			],
+			[
+				"K_",
+				"K_SPACE"
+			],
+			[
+				"enter",
+				"ENTER"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "VS_2.py",
+			"settings":
+			{
+				"buffer_size": 7206,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/miscellanous/turleprac",
+		"/E/v_project/Race/VS_2.py",
+		"/C/projects/jangoprac/manage.py",
+		"/E/miscellanous/pract.py",
+		"/E/miscellanous/Untitled-1.py",
+		"/E/v_project/RPC.py",
+		"/E/whatsapp_bot.py",
+		"/C/aboutus.html",
+		"/E/Python/Race/example.py",
+		"/E/Python/Race/ex2.py",
+		"/E/Race/VS_2.py",
+		"/E/Race/example.py",
+		"/E/sprites/game_using _sprites.py",
+		"/E/sprites/screen_recorder.py",
+		"/E/sprites/game_using _sprites.sublime-workspace",
+		"/E/Race/ex2.py",
+		"/C/sprites/game_using _sprites.py",
+		"/C/snake/VS_snake.py",
+		"/C/Users/ACER/Documents/pract.py",
+		"/C/Race/VS_2.py",
+		"/E/snake/#check even odd.py",
+		"/E/snake/VS_snake.py"
+	],
+	"find":
+	{
+		"height": 202.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"300"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "VS_2.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							],
+							[
+								21,
+								21
+							],
+							[
+								102,
+								102
+							],
+							[
+								155,
+								158
+							],
+							[
+								301,
+								301
+							],
+							[
+								323,
+								323
+							],
+							[
+								326,
+								326
+							],
+							[
+								419,
+								419
+							],
+							[
+								518,
+								518
+							],
+							[
+								664,
+								664
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 202.4
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 202.4
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "VS_2.sublime-project",
+	"replace":
+	{
+		"height": 44.8
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
